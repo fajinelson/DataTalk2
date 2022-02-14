@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM `data-engineering-class-340107.hfv_tripdata.hfv_tripdata` 
+SELECT COUNT(DISTINCT dispatching_base_num) FROM `data-engineering-class-340107.hfv_tripdata.hfv_tripdata
